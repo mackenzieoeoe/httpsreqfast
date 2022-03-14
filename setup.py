@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name = "httpsreqfast",
-    packages=["src"],
-    version="1.0",
+    packages=["src", "src/utils"],
+    version="1.1",
     license="MIT",
     description="Make https requests all over the web.",
     author="emma",
